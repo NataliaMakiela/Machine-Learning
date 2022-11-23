@@ -1,4 +1,4 @@
-Titanic dataset analysis.
+Titanic dataset analysis. Model reaches 78% test accuracy.
 
 EDA_titanic contains:
 - exploration and visualisation of numerical and categorical data
@@ -11,4 +11,4 @@ models_titanic contains:
 - implementation of simple random forest, logistic regression and Support Vector Mchine models and their visual comparison
 - hyperparametertuning of the best model - SVM using Gridsearch
 
-TODO: finish models - Gridsearch etc., delete removing Embarked missings !!!
+TODO: try to improve this model
